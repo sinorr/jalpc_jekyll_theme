@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "神奇的Python"
+desc: "Zen of Python"
+keywords: "zen,python,this,Python之禅"
+date:   2016-06-02
+categories: [Python, Life]
+tags: [Python]
+icon: icon-python
+---
+
 Mr.LDA
 =======
 

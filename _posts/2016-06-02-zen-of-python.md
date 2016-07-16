@@ -12,7 +12,7 @@ icon: icon-python
 Mr.LDA
 =======
 
-Mr.LDA is an open-source package for flexible, scalable, multilingual topic
+Mr.LDA is an _open-source_ package for flexible, scalable, multilingual topic
 modeling using variational inference in MapReduce. For more details, please consult [this paper](http://www2012.org/proceedings/proceedings/p879.pdf). The latest version of the code can always be found on [GitHub](https://github.com/lintool/Mr.LDA).
 
 Please send any bugs reports or questions to Ke Zhai (kzhai@umd.edu).
